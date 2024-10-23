@@ -4,15 +4,20 @@ Alunos: Arthur B. Pinotti, Eduardo Brandt, Henrique F. de Azevedo, Kaue Reblin, 
 Disponível com o nome do doc, texto bruto e texto tokenizado em: https://drive.google.com/file/d/1SC1k8urN_RGfveBh2i5q8bnlzEWTj_DP/view?usp=sharing
 
 ### Críterios de avaliação
+- [ ] Bag of Words (0,1)
+- [ ] TF-IDF (0,2)
+- [ ] Foram empregados ngramas? (0,1)
+- [ ] Embeddings (0,3)
+- [ ] Interpretação dos resultados (0,4)
 
-TODO
-
+### TODO
 - [X] Disponibilizar CSV
 - [X] Bag of Words
 - [ ] Bag of Words Com Comentários
 - [X] TF-IDF (Com K-Means estático)
 - [ ] TF-IDF Com Comentários
-- [ ] Word2Vec
+- [X] Word2Vec
+- [ ] Word2Vec Com Comentários
 - [ ] Comparação dos métodos
 - [ ] LLMs
 

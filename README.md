@@ -13,12 +13,12 @@ Disponível com o nome do doc, texto bruto e texto tokenizado em: https://drive.
 ### TODO
 - [X] Disponibilizar CSV
 - [X] Bag of Words
-- [ ] Bag of Words Com Comentários
+- [X] Bag of Words Com Comentários
 - [X] TF-IDF (Com K-Means estático)
-- [ ] TF-IDF Com Comentários
+- [X] TF-IDF Com Comentários
 - [X] Word2Vec
-- [ ] Word2Vec Com Comentários
-- [ ] Comparação dos métodos
+- [X] Word2Vec Com Comentários
+- [X] Comparação dos métodos
 - [ ] LLMs
 
 

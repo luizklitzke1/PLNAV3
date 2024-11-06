@@ -1,14 +1,17 @@
 Alunos: Arthur B. Pinotti, Eduardo Brandt, Henrique F. de Azevedo, Kaue Reblin, Luiz G. Klitzke
 
+Collabs para entrega:
+- BOW & TFIDF & Word2Vec: https://colab.research.google.com/drive/1M1PJzvHirWQ228YsrwH_K0eNvMRZSbvj?usp=sharing
+
 ### CSV com os dados minerados
 Disponível com o nome do doc, texto bruto e texto tokenizado em: https://drive.google.com/file/d/1SC1k8urN_RGfveBh2i5q8bnlzEWTj_DP/view?usp=sharing
 
 ### Críterios de avaliação
-- [ ] Bag of Words (0,1)
-- [ ] TF-IDF (0,2)
+- [X] Bag of Words (0,1)
+- [X] TF-IDF (0,2)
 - [ ] Foram empregados ngramas? (0,1)
-- [ ] Embeddings (0,3)
-- [ ] Interpretação dos resultados (0,4)
+- [X] Embeddings (0,3)
+- [X] Interpretação dos resultados (0,4)
 
 ### TODO
 - [X] Disponibilizar CSV
